@@ -31,7 +31,7 @@ Base on html,css,js.
         <div><img src="images/2.jpeg" alt=""></div>
     </div>
 </body>
-<script src="js/jquery-2.1.4.min.js"></script>
+<script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
 <script>
     $(function(){
         initPhotoSize('myPhoto');
