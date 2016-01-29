@@ -14,8 +14,9 @@ Base on html,css,js.
     <div><img src="images/1.jpg" alt=""></div>
     <div><img src="images/2.jpeg" alt=""></div>
 </div>
-#js call
+```
+# js call
 ```js
 //传入id
 initPhotoSize('myPhoto');
-
+```
